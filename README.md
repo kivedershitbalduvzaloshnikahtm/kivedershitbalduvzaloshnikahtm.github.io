@@ -1,7 +1,7 @@
 <div align="center">
   <img height="500" src="https://i.ibb.co/5KH57ND/preview.png"  />
 </div>
-<p align="center"> <br>
+
 <p align="center"> <br>
 <h2 align="center">об игре</h2>
 
