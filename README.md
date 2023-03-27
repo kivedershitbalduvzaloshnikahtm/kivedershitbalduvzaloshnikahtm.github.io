@@ -4,5 +4,5 @@
 
 <h1 align="center">скачать!!!!!!!!111!!!11!!!!1!!!!!1!!!1!!!!</h1>
 
-<p align="center">киве держит балду в заложниках 1.0</p>
+<p align="left">киве держит балду в заложниках 1.0</p>
 [нажать чтобы скачать быстра!!11!](https://drive.google.com/file/d/1vLEx_n33-EhRCYKxQtFfgvLCK5fbZy_n/view)
