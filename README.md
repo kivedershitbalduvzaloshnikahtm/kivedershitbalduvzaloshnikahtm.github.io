@@ -12,6 +12,7 @@
 
 <p align="left">сломать психику(скачать мод)</p>
 <p><a href="https://kivedershitbalduvzaloshnikahtm.github.io/download.html">перейти на сайт скачать!!!!!111111</a></p>
+<p><a href="https://discord.gg/w4xVDGsgBK">дискорд сервер даочень</a></p>
 
 
 
@@ -46,4 +47,3 @@
 
 
 <p align="center">данехаскь<br>новый разроботчик</p>
-
