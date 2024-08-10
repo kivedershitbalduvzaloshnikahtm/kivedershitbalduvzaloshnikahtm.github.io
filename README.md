@@ -11,7 +11,7 @@
 
 
 <p align="left">сломать психику(скачать мод)</p>
-<p><a href="[https://kivedershitbalduvzaloshnikahtm.github.io/download.html]">перейти на сайт скачать!!!!!111111</a></p>
+<p><a href="https://kivedershitbalduvzaloshnikahtm.github.io/download.html">перейти на сайт скачать!!!!!111111</a></p>
 
 
 
@@ -40,7 +40,7 @@
 
 
 <div align="center">
-  <img height="100" src="https://ibb.co/LpL29D6"/>
+  <img height="100" src="https://ibb.co/LpL29D6/danihack-newskin.png"/>
 </div>
 
 
