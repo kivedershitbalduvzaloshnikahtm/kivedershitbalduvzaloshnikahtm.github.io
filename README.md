@@ -41,7 +41,7 @@
 
 
 <div align="center">
-  <img height="100" src="https://ibb.co/LpL29D6/danihack-newskin"/>
+  <img height="100" src="https://i.ibb.co/ryC15KM/danihack-newskin.png"/>
 </div>
 
 
