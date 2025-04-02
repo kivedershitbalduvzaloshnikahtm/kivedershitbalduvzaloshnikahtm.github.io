@@ -24,25 +24,52 @@
     <link rel="stylesheet" href="%D0%BA%D0%B8%D0%B2%D0%B5%20%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D1%82%20%D0%B1%D0%B0%D0%BB%D0%B4%D1%83%20%D0%B2%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%E2%84%A2%20100_%20%D0%BD%D0%B5%20%D1%84%D0%B5%D0%B9%D0%BA%20%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%BC%D0%B0%D1%80%D0%BA%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8D%F0%9F%98%8D_files/style.css">
     <script src="%D0%BA%D0%B8%D0%B2%D0%B5%20%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D1%82%20%D0%B1%D0%B0%D0%BB%D0%B4%D1%83%20%D0%B2%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%E2%84%A2%20100_%20%D0%BD%D0%B5%20%D1%84%D0%B5%D0%B9%D0%BA%20%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%BC%D0%B0%D1%80%D0%BA%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8D%F0%9F%98%8D_files/jquery.min.js"></script>
     <script src="%D0%BA%D0%B8%D0%B2%D0%B5%20%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D1%82%20%D0%B1%D0%B0%D0%BB%D0%B4%D1%83%20%D0%B2%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%E2%84%A2%20100_%20%D0%BD%D0%B5%20%D1%84%D0%B5%D0%B9%D0%BA%20%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%BC%D0%B0%D1%80%D0%BA%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8D%F0%9F%98%8D_files/respond.js"></script>
-    <script
-        // the css we are going to inject
-        var css = 'html {-webkit-filter: invert(100%);' +
-            '-moz-filter: invert(100%);' + 
-            '-o-filter: invert(100%);' + 
-            '-ms-filter: invert(100%); }',
-        
-        head = document.getElementsByTagName('head')[0],
-        style = document.createElement('style');
-        
-        style.type = 'text/css';
-        if (style.styleSheet){
-        style.styleSheet.cssText = css;
-        } else {
-        style.appendChild(document.createTextNode(css));
-        }
-        
-        //injecting the css to the head
-        head.appendChild(style);
+    <script>
+function invert(){
+     // the css we are going to inject
+    var css = 'html {-webkit-filter: invert(100%);' +
+        '-moz-filter: invert(100%);' + 
+        '-o-filter: invert(100%);' + 
+        '-ms-filter: invert(100%); }',
+    
+    head = document.getElementsByTagName('head')[0],
+    style = document.createElement('style');
+    
+    style.type = 'text/css';
+    if (style.styleSheet){
+    style.styleSheet.cssText = css;
+    } else {
+    style.appendChild(document.createTextNode(css));
+    }
+    
+    //injecting the css to the head
+    head.appendChild(style);
+
+    setTimeout(normal, 100);
+}
+function normal(){
+     // the css we are going to inject
+    var css = 'html {-webkit-filter: invert(100%);' +
+        '-moz-filter: invert(100%);' + 
+        '-o-filter: invert(100%);' + 
+        '-ms-filter: invert(100%); }',
+    
+    head = document.getElementsByTagName('head')[0],
+    style = document.createElement('style');
+    
+    style.type = 'text/css';
+    if (style.styleSheet){
+    style.styleSheet.cssText = css;
+    } else {
+    style.appendChild(document.createTextNode(css));
+    }
+    
+    //injecting the css to the head
+    head.appendChild(style);
+
+    setTimeout(invert, 100);
+}
+invert()
     </script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
